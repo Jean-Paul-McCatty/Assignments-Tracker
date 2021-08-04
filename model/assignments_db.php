@@ -1,6 +1,6 @@
 <?php
     //READ Assignment Function
-    function assignments_by_course(){
+    function get_assignments_by_course(){
         global $db;
         global $course_id;
         if ($course_id) {
