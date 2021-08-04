@@ -1,6 +1,6 @@
 <?php
     //Database Connection
-    $dsn = 'mysql:host=localhost;dbname=assignment_tracker';
+    $dsn = 'mysql:host=localhost; dbname=assignment_tracker';
     $username ='root';
 
     try{
